@@ -1,0 +1,54 @@
+Alice Johnson
+9876543210
+alice.johnson@example.com
+123 Maple Street, Springfield
+
+Bob Smith
+9123456780
+bob.smith@gmail.com
+45 Elm Road, New York
+
+Charlie Patel
+8098765432
+charlie.patel@outlook.com
+789 Pine Avenue, Chicago
+
+Diana Sharma
+9988776655
+diana.sharma@yahoo.com
+22 Lake View, Mumbai
+
+Ethan Lee
+9345678901
+ethan.lee@gmail.com
+310 River Blvd, Los Angeles
+
+Fatima Khan
+9012345678
+fatima.khan@hotmail.com
+17 Jasmine Lane, Delhi
+
+George Brown
+8234567890
+george.brown@live.com
+56 Cedar Street, London
+
+Hina Verma
+9765432109
+hina.verma@gmail.com
+66 Garden City, Bengaluru
+
+Ibrahim Yusuf
+9887766554
+ibrahim.yusuf@protonmail.com
+302 Ocean Drive, Dubai
+
+Julia Mehra
+9876541230
+julia.mehra@gmail.com
+101 Palm Grove, Goa
+
+Mihika
+1234567890
+mihika@gmail.com
+123 b hcd
